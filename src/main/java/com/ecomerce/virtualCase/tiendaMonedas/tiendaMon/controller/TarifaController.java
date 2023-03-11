@@ -29,6 +29,12 @@ public class TarifaController {
 	@Autowired
 	TarifasServices tarifaService;
 	
+	@Autowired
+    private WireMockServer wireMockServer;
+ 
+    @Autowired
+    private OpenAPI openApi;
+	
 	private final static String FORMATO_FECHA = "yyyy-MM-dd";
 		
 	@PostMapping
@@ -91,6 +97,51 @@ public class TarifaController {
 		tarifaService.deleteTarifa(id);
 		return ResponseEntity.noContent().build();
 	}
+	
+
+ 
+    @GetMapping("/v1/currencies")
+    public ResponseEntity<List> listaModenas() {
+        // Crear una solicitud HTTP simulada utilizando el servidor WireMock
+        WireMock.configureFor("localhost", wireMockServer.port());
+//        WireMock.stubFor(WireMock.get(WireMock.urlEqualTo("/v1/currencies"))
+//            .willReturn(WireMock.aResponse().withBody("Hello, world!")));
+ 
+        // Validar la solicitud utilizando la especificación OpenAPI
+        OpenAPIValidationService validationService = new OpenAPIValidationService(openApi);
+        validationService.validateRequest("/v1/currencies", "GET", null);
+ 
+        // Realizar la solicitud HTTP utilizando la biblioteca de su elección (por ejemplo, RestTemplate)
+        String url = "http://localhost:" + wireMockServer.port() + "/v1/currencies";
+        ResponseEntity<List> response = restTemplate.getForEntity(url, List.class);
+ 
+        // Validar la respuesta utilizando la especificación OpenAPI
+        validationService.validateResponse("/v1/currencies", "GET", response.getStatusCodeValue(), null);
+ 
+        return response;
+    }
+    
+    @GetMapping("/v1/currencies/{currencyCode}")
+    public ResponseEntity<String> modenaPorCodigo(@PathVariable String code) {
+        // Crear una solicitud HTTP simulada utilizando el servidor WireMock
+        WireMock.configureFor("localhost", wireMockServer.port());
+//        WireMock.stubFor(WireMock.get(WireMock.urlEqualTo("/v1/currencies"))
+//            .willReturn(WireMock.aResponse().withBody("Hello, world!")));
+ 
+        // Validar la solicitud utilizando la especificación OpenAPI
+        OpenAPIValidationService validationService = new OpenAPIValidationService(openApi);
+        validationService.validateRequest("/v1/currencies/"+code, "GET", null);
+ 
+        // Realizar la solicitud HTTP utilizando la biblioteca de su elección (por ejemplo, RestTemplate)
+        String url = "http://localhost:" + wireMockServer.port() + "/v1/currencies";
+        ResponseEntity<List> response = restTemplate.getForEntity(url, List.class);
+ 
+        // Validar la respuesta utilizando la especificación OpenAPI
+        validationService.validateResponse("/v1/currencies", "GET", response.getStatusCodeValue(), null);
+ 
+        return response;
+    }
+	
 	
 	private static Date getDateFormat(String date) {
 	    try {
