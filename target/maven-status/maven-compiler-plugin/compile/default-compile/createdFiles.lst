@@ -1,0 +1,6 @@
+com\ecomerce\virtualCase\tiendaMonedas\tiendaMon\services\impl\TarifasServicesImpl.class
+com\ecomerce\virtualCase\tiendaMonedas\tiendaMon\services\TarifasServices.class
+com\ecomerce\virtualCase\tiendaMonedas\tiendaMon\model\Tarifa.class
+com\ecomerce\virtualCase\tiendaMonedas\tiendaMon\repositories\ITarifasRepository.class
+com\ecomerce\virtualCase\tiendaMonedas\tiendaMon\TiendaMonedaApplication.class
+com\ecomerce\virtualCase\tiendaMonedas\tiendaMon\controller\TarifaController.class

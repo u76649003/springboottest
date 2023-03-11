@@ -1,0 +1,224 @@
+# Created at 2023-03-09T16:41:29.673
+Unexpected IOException: I,1,java.specification.version,17
+
+
+# Created at 2023-03-09T16:41:29.674
+Unexpected IOException: I,1,sun.cpu.isalist,amd64
+
+
+# Created at 2023-03-09T16:41:29.675
+Unexpected IOException: I,1,sun.jnu.encoding,Cp1252
+
+
+# Created at 2023-03-09T16:41:29.677
+Unexpected IOException: I,1,java.class.path,D:\005Cworkspace\005CtiendaMoneda\005Ctarget\005Ctest-classes;D:\005Cworkspace\005CtiendaMoneda\005Ctarget\005Cclasses;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-data-jpa\005C3.0.4\005Cspring-boot-starter-data-jpa-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-aop\005C3.0.4\005Cspring-boot-starter-aop-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-aop\005C6.0.6\005Cspring-aop-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Caspectj\005Caspectjweaver\005C1.9.19\005Caspectjweaver-1.9.19.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-jdbc\005C3.0.4\005Cspring-boot-starter-jdbc-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Czaxxer\005CHikariCP\005C5.0.1\005CHikariCP-5.0.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-jdbc\005C6.0.6\005Cspring-jdbc-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Chibernate\005Corm\005Chibernate-core\005C6.1.7.Final\005Chibernate-core-6.1.7.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cpersistence\005Cjakarta.persistence-api\005C3.1.0\005Cjakarta.persistence-api-3.1.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Ctransaction\005Cjakarta.transaction-api\005C2.0.1\005Cjakarta.transaction-api-2.0.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjboss\005Clogging\005Cjboss-logging\005C3.5.0.Final\005Cjboss-logging-3.5.0.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Chibernate\005Ccommon\005Chibernate-commons-annotations\005C6.0.6.Final\005Chibernate-commons-annotations-6.0.6.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjboss\005Cjandex\005C2.4.2.Final\005Cjandex-2.4.2.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cclassmate\005C1.5.1\005Cclassmate-1.5.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cnet\005Cbytebuddy\005Cbyte-buddy\005C1.12.23\005Cbyte-buddy-1.12.23.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Cjaxb-runtime\005C4.0.2\005Cjaxb-runtime-4.0.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Cjaxb-core\005C4.0.2\005Cjaxb-core-4.0.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Ceclipse\005Cangus\005Cangus-activation\005C2.0.0\005Cangus-activation-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Ctxw2\005C4.0.2\005Ctxw2-4.0.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Csun\005Cistack\005Cistack-commons-runtime\005C4.1.1\005Cistack-commons-runtime-4.1.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cinject\005Cjakarta.inject-api\005C2.0.0\005Cjakarta.inject-api-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cantlr\005Cantlr4-runtime\005C4.10.1\005Cantlr4-runtime-4.10.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-jpa\005C3.0.3\005Cspring-data-jpa-3.0.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-commons\005C3.0.3\005Cspring-data-commons-3.0.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-orm\005C6.0.6\005Cspring-orm-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-context\005C6.0.6\005Cspring-context-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-tx\005C6.0.6\005Cspring-tx-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-beans\005C6.0.6\005Cspring-beans-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cannotation\005Cjakarta.annotation-api\005C2.1.1\005Cjakarta.annotation-api-2.1.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cslf4j\005Cslf4j-api\005C2.0.6\005Cslf4j-api-2.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-aspects\005C6.0.6\005Cspring-aspects-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-data-rest\005C3.0.4\005Cspring-boot-starter-data-rest-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-rest-webmvc\005C4.0.3\005Cspring-data-rest-webmvc-4.0.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-rest-core\005C4.0.3\005Cspring-data-rest-core-4.0.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Chateoas\005Cspring-hateoas\005C2.0.2\005Cspring-hateoas-2.0.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cplugin\005Cspring-plugin-core\005C3.0.0\005Cspring-plugin-core-3.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Catteo\005Cevo-inflector\005C1.3\005Cevo-inflector-1.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-databind\005C2.14.2\005Cjackson-databind-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-core\005C2.14.2\005Cjackson-core-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-annotations\005C2.14.2\005Cjackson-annotations-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-thymeleaf\005C3.0.4\005Cspring-boot-starter-thymeleaf-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter\005C3.0.4\005Cspring-boot-starter-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot\005C3.0.4\005Cspring-boot-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-autoconfigure\005C3.0.4\005Cspring-boot-autoconfigure-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-logging\005C3.0.4\005Cspring-boot-starter-logging-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cch\005Cqos\005Clogback\005Clogback-classic\005C1.4.5\005Clogback-classic-1.4.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cch\005Cqos\005Clogback\005Clogback-core\005C1.4.5\005Clogback-core-1.4.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Clogging\005Clog4j\005Clog4j-to-slf4j\005C2.19.0\005Clog4j-to-slf4j-2.19.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Clogging\005Clog4j\005Clog4j-api\005C2.19.0\005Clog4j-api-2.19.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cslf4j\005Cjul-to-slf4j\005C2.0.6\005Cjul-to-slf4j-2.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cyaml\005Csnakeyaml\005C1.33\005Csnakeyaml-1.33.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cthymeleaf\005Cthymeleaf-spring6\005C3.1.1.RELEASE\005Cthymeleaf-spring6-3.1.1.RELEASE.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cthymeleaf\005Cthymeleaf\005C3.1.1.RELEASE\005Cthymeleaf-3.1.1.RELEASE.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cattoparser\005Cattoparser\005C2.0.6.RELEASE\005Cattoparser-2.0.6.RELEASE.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cunbescape\005Cunbescape\005C1.1.6.RELEASE\005Cunbescape-1.1.6.RELEASE.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-web\005C3.0.4\005Cspring-boot-starter-web-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-json\005C3.0.4\005Cspring-boot-starter-json-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdatatype\005Cjackson-datatype-jdk8\005C2.14.2\005Cjackson-datatype-jdk8-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdatatype\005Cjackson-datatype-jsr310\005C2.14.2\005Cjackson-datatype-jsr310-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cmodule\005Cjackson-module-parameter-names\005C2.14.2\005Cjackson-module-parameter-names-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-tomcat\005C3.0.4\005Cspring-boot-starter-tomcat-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Ctomcat\005Cembed\005Ctomcat-embed-core\005C10.1.5\005Ctomcat-embed-core-10.1.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Ctomcat\005Cembed\005Ctomcat-embed-websocket\005C10.1.5\005Ctomcat-embed-websocket-10.1.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-web\005C6.0.6\005Cspring-web-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cmicrometer\005Cmicrometer-observation\005C1.10.4\005Cmicrometer-observation-1.10.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cmicrometer\005Cmicrometer-commons\005C1.10.4\005Cmicrometer-commons-1.10.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-webmvc\005C6.0.6\005Cspring-webmvc-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-expression\005C6.0.6\005Cspring-expression-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cpostgresql\005Cpostgresql\005C42.5.4\005Cpostgresql-42.5.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Ccheckerframework\005Cchecker-qual\005C3.5.0\005Cchecker-qual-3.5.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cprojectlombok\005Clombok\005C1.18.26\005Clombok-1.18.26.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-test\005C3.0.4\005Cspring-boot-starter-test-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-test\005C3.0.4\005Cspring-boot-test-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-test-autoconfigure\005C3.0.4\005Cspring-boot-test-autoconfigure-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cjayway\005Cjsonpath\005Cjson-path\005C2.7.0\005Cjson-path-2.7.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cnet\005Cminidev\005Cjson-smart\005C2.4.8\005Cjson-smart-2.4.8.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cnet\005Cminidev\005Caccessors-smart\005C2.4.8\005Caccessors-smart-2.4.8.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cow2\005Casm\005Casm\005C9.1\005Casm-9.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cxml\005Cbind\005Cjakarta.xml.bind-api\005C4.0.0\005Cjakarta.xml.bind-api-4.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cactivation\005Cjakarta.activation-api\005C2.1.1\005Cjakarta.activation-api-2.1.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cassertj\005Cassertj-core\005C3.23.1\005Cassertj-core-3.23.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Chamcrest\005Chamcrest\005C2.2\005Chamcrest-2.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter\005C5.9.2\005Cjunit-jupiter-5.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-api\005C5.9.2\005Cjunit-jupiter-api-5.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Copentest4j\005Copentest4j\005C1.2.0\005Copentest4j-1.2.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cplatform\005Cjunit-platform-commons\005C1.9.2\005Cjunit-platform-commons-1.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capiguardian\005Capiguardian-api\005C1.1.2\005Capiguardian-api-1.1.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-params\005C5.9.2\005Cjunit-jupiter-params-5.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-engine\005C5.9.2\005Cjunit-jupiter-engine-5.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cplatform\005Cjunit-platform-engine\005C1.9.2\005Cjunit-platform-engine-1.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cmockito\005Cmockito-core\005C4.8.1\005Cmockito-core-4.8.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cnet\005Cbytebuddy\005Cbyte-buddy-agent\005C1.12.23\005Cbyte-buddy-agent-1.12.23.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cobjenesis\005Cobjenesis\005C3.2\005Cobjenesis-3.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cmockito\005Cmockito-junit-jupiter\005C4.8.1\005Cmockito-junit-jupiter-4.8.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cskyscreamer\005Cjsonassert\005C1.5.1\005Cjsonassert-1.5.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cvaadin\005Cexternal\005Cgoogle\005Candroid-json\005C0.0.20131108.vaadin1\005Candroid-json-0.0.20131108.vaadin1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-core\005C6.0.6\005Cspring-core-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-jcl\005C6.0.6\005Cspring-jcl-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-test\005C6.0.6\005Cspring-test-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cxmlunit\005Cxmlunit-core\005C2.9.1\005Cxmlunit-core-2.9.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringdoc\005Cspringdoc-openapi-starter-webmvc-ui\005C2.0.0\005Cspringdoc-openapi-starter-webmvc-ui-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringdoc\005Cspringdoc-openapi-starter-webmvc-api\005C2.0.0\005Cspringdoc-openapi-starter-webmvc-api-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringdoc\005Cspringdoc-openapi-starter-common\005C2.0.0\005Cspringdoc-openapi-starter-common-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cswagger\005Ccore\005Cv3\005Cswagger-core-jakarta\005C2.2.7\005Cswagger-core-jakarta-2.2.7.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Ccommons\005Ccommons-lang3\005C3.12.0\005Ccommons-lang3-3.12.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cswagger\005Ccore\005Cv3\005Cswagger-annotations-jakarta\005C2.2.7\005Cswagger-annotations-jakarta-2.2.7.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cswagger\005Ccore\005Cv3\005Cswagger-models-jakarta\005C2.2.7\005Cswagger-models-jakarta-2.2.7.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdataformat\005Cjackson-dataformat-yaml\005C2.14.2\005Cjackson-dataformat-yaml-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cwebjars\005Cswagger-ui\005C4.15.5\005Cswagger-ui-4.15.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cwebjars\005Cwebjars-locator-core\005C0.52\005Cwebjars-locator-core-0.52.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cgithub\005Cclassgraph\005Cclassgraph\005C4.8.149\005Cclassgraph-4.8.149.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-validation\005C3.0.4\005Cspring-boot-starter-validation-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Ctomcat\005Cembed\005Ctomcat-embed-el\005C10.1.5\005Ctomcat-embed-el-10.1.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Chibernate\005Cvalidator\005Chibernate-validator\005C8.0.0.Final\005Chibernate-validator-8.0.0.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cvalidation\005Cjakarta.validation-api\005C3.0.2\005Cjakarta.validation-api-3.0.2.jar;
+
+
+# Created at 2023-03-09T16:41:29.679
+Unexpected IOException: I,1,java.vm.vendor,Amazon.com Inc.
+
+
+# Created at 2023-03-09T16:41:29.680
+Unexpected IOException: I,1,sun.arch.data.model,64
+
+
+# Created at 2023-03-09T16:41:29.680
+Unexpected IOException: I,1,user.variant,
+
+
+# Created at 2023-03-09T16:41:29.680
+Unexpected IOException: I,1,java.vendor.url,https://aws.amazon.com/corretto/
+
+
+# Created at 2023-03-09T16:41:29.681
+Unexpected IOException: I,1,user.timezone,Europe/Madrid
+
+
+# Created at 2023-03-09T16:41:29.681
+Unexpected IOException: I,1,java.vm.specification.version,17
+
+
+# Created at 2023-03-09T16:41:29.681
+Unexpected IOException: I,1,os.name,Windows 10
+
+
+# Created at 2023-03-09T16:41:29.682
+Unexpected IOException: I,1,sun.java.launcher,SUN_STANDARD
+
+
+# Created at 2023-03-09T16:41:29.682
+Unexpected IOException: I,1,user.country,ES
+
+
+# Created at 2023-03-09T16:41:29.683
+Unexpected IOException: I,1,sun.boot.library.path,C:\005CProgram Files\005CAmazon Corretto\005Cjdk17.0.6_10\005Cbin
+
+
+# Created at 2023-03-09T16:41:29.683
+Unexpected IOException: I,1,sun.java.command,C:\005CUsers\005CJUSTO\005CAppData\005CLocal\005CTemp\005Csurefire12162613741108329195\005Csurefirebooter7688577740403013579.jar C:\005CUsers\005CJUSTO\005CAppData\005CLocal\005CTemp\005Csurefire12162613741108329195 2023-03-09T16-41-29_041-jvmRun1 surefire13082912284905043775tmp surefire_012262256813566136853tmp
+
+
+# Created at 2023-03-09T16:41:29.683
+Unexpected IOException: I,1,jdk.debug,release
+
+
+# Created at 2023-03-09T16:41:29.685
+Unexpected IOException: I,1,surefire.test.class.path,D:\005Cworkspace\005CtiendaMoneda\005Ctarget\005Ctest-classes;D:\005Cworkspace\005CtiendaMoneda\005Ctarget\005Cclasses;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-data-jpa\005C3.0.4\005Cspring-boot-starter-data-jpa-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-aop\005C3.0.4\005Cspring-boot-starter-aop-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-aop\005C6.0.6\005Cspring-aop-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Caspectj\005Caspectjweaver\005C1.9.19\005Caspectjweaver-1.9.19.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-jdbc\005C3.0.4\005Cspring-boot-starter-jdbc-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Czaxxer\005CHikariCP\005C5.0.1\005CHikariCP-5.0.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-jdbc\005C6.0.6\005Cspring-jdbc-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Chibernate\005Corm\005Chibernate-core\005C6.1.7.Final\005Chibernate-core-6.1.7.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cpersistence\005Cjakarta.persistence-api\005C3.1.0\005Cjakarta.persistence-api-3.1.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Ctransaction\005Cjakarta.transaction-api\005C2.0.1\005Cjakarta.transaction-api-2.0.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjboss\005Clogging\005Cjboss-logging\005C3.5.0.Final\005Cjboss-logging-3.5.0.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Chibernate\005Ccommon\005Chibernate-commons-annotations\005C6.0.6.Final\005Chibernate-commons-annotations-6.0.6.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjboss\005Cjandex\005C2.4.2.Final\005Cjandex-2.4.2.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cclassmate\005C1.5.1\005Cclassmate-1.5.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cnet\005Cbytebuddy\005Cbyte-buddy\005C1.12.23\005Cbyte-buddy-1.12.23.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Cjaxb-runtime\005C4.0.2\005Cjaxb-runtime-4.0.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Cjaxb-core\005C4.0.2\005Cjaxb-core-4.0.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Ceclipse\005Cangus\005Cangus-activation\005C2.0.0\005Cangus-activation-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Ctxw2\005C4.0.2\005Ctxw2-4.0.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Csun\005Cistack\005Cistack-commons-runtime\005C4.1.1\005Cistack-commons-runtime-4.1.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cinject\005Cjakarta.inject-api\005C2.0.0\005Cjakarta.inject-api-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cantlr\005Cantlr4-runtime\005C4.10.1\005Cantlr4-runtime-4.10.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-jpa\005C3.0.3\005Cspring-data-jpa-3.0.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-commons\005C3.0.3\005Cspring-data-commons-3.0.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-orm\005C6.0.6\005Cspring-orm-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-context\005C6.0.6\005Cspring-context-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-tx\005C6.0.6\005Cspring-tx-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-beans\005C6.0.6\005Cspring-beans-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cannotation\005Cjakarta.annotation-api\005C2.1.1\005Cjakarta.annotation-api-2.1.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cslf4j\005Cslf4j-api\005C2.0.6\005Cslf4j-api-2.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-aspects\005C6.0.6\005Cspring-aspects-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-data-rest\005C3.0.4\005Cspring-boot-starter-data-rest-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-rest-webmvc\005C4.0.3\005Cspring-data-rest-webmvc-4.0.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-rest-core\005C4.0.3\005Cspring-data-rest-core-4.0.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Chateoas\005Cspring-hateoas\005C2.0.2\005Cspring-hateoas-2.0.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cplugin\005Cspring-plugin-core\005C3.0.0\005Cspring-plugin-core-3.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Catteo\005Cevo-inflector\005C1.3\005Cevo-inflector-1.3.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-databind\005C2.14.2\005Cjackson-databind-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-core\005C2.14.2\005Cjackson-core-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-annotations\005C2.14.2\005Cjackson-annotations-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-thymeleaf\005C3.0.4\005Cspring-boot-starter-thymeleaf-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter\005C3.0.4\005Cspring-boot-starter-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot\005C3.0.4\005Cspring-boot-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-autoconfigure\005C3.0.4\005Cspring-boot-autoconfigure-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-logging\005C3.0.4\005Cspring-boot-starter-logging-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cch\005Cqos\005Clogback\005Clogback-classic\005C1.4.5\005Clogback-classic-1.4.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cch\005Cqos\005Clogback\005Clogback-core\005C1.4.5\005Clogback-core-1.4.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Clogging\005Clog4j\005Clog4j-to-slf4j\005C2.19.0\005Clog4j-to-slf4j-2.19.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Clogging\005Clog4j\005Clog4j-api\005C2.19.0\005Clog4j-api-2.19.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cslf4j\005Cjul-to-slf4j\005C2.0.6\005Cjul-to-slf4j-2.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cyaml\005Csnakeyaml\005C1.33\005Csnakeyaml-1.33.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cthymeleaf\005Cthymeleaf-spring6\005C3.1.1.RELEASE\005Cthymeleaf-spring6-3.1.1.RELEASE.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cthymeleaf\005Cthymeleaf\005C3.1.1.RELEASE\005Cthymeleaf-3.1.1.RELEASE.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cattoparser\005Cattoparser\005C2.0.6.RELEASE\005Cattoparser-2.0.6.RELEASE.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cunbescape\005Cunbescape\005C1.1.6.RELEASE\005Cunbescape-1.1.6.RELEASE.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-web\005C3.0.4\005Cspring-boot-starter-web-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-json\005C3.0.4\005Cspring-boot-starter-json-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdatatype\005Cjackson-datatype-jdk8\005C2.14.2\005Cjackson-datatype-jdk8-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdatatype\005Cjackson-datatype-jsr310\005C2.14.2\005Cjackson-datatype-jsr310-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cmodule\005Cjackson-module-parameter-names\005C2.14.2\005Cjackson-module-parameter-names-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-tomcat\005C3.0.4\005Cspring-boot-starter-tomcat-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Ctomcat\005Cembed\005Ctomcat-embed-core\005C10.1.5\005Ctomcat-embed-core-10.1.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Ctomcat\005Cembed\005Ctomcat-embed-websocket\005C10.1.5\005Ctomcat-embed-websocket-10.1.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-web\005C6.0.6\005Cspring-web-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cmicrometer\005Cmicrometer-observation\005C1.10.4\005Cmicrometer-observation-1.10.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cmicrometer\005Cmicrometer-commons\005C1.10.4\005Cmicrometer-commons-1.10.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-webmvc\005C6.0.6\005Cspring-webmvc-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-expression\005C6.0.6\005Cspring-expression-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cpostgresql\005Cpostgresql\005C42.5.4\005Cpostgresql-42.5.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Ccheckerframework\005Cchecker-qual\005C3.5.0\005Cchecker-qual-3.5.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cprojectlombok\005Clombok\005C1.18.26\005Clombok-1.18.26.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-test\005C3.0.4\005Cspring-boot-starter-test-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-test\005C3.0.4\005Cspring-boot-test-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-test-autoconfigure\005C3.0.4\005Cspring-boot-test-autoconfigure-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cjayway\005Cjsonpath\005Cjson-path\005C2.7.0\005Cjson-path-2.7.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cnet\005Cminidev\005Cjson-smart\005C2.4.8\005Cjson-smart-2.4.8.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cnet\005Cminidev\005Caccessors-smart\005C2.4.8\005Caccessors-smart-2.4.8.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cow2\005Casm\005Casm\005C9.1\005Casm-9.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cxml\005Cbind\005Cjakarta.xml.bind-api\005C4.0.0\005Cjakarta.xml.bind-api-4.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cactivation\005Cjakarta.activation-api\005C2.1.1\005Cjakarta.activation-api-2.1.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cassertj\005Cassertj-core\005C3.23.1\005Cassertj-core-3.23.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Chamcrest\005Chamcrest\005C2.2\005Chamcrest-2.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter\005C5.9.2\005Cjunit-jupiter-5.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-api\005C5.9.2\005Cjunit-jupiter-api-5.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Copentest4j\005Copentest4j\005C1.2.0\005Copentest4j-1.2.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cplatform\005Cjunit-platform-commons\005C1.9.2\005Cjunit-platform-commons-1.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capiguardian\005Capiguardian-api\005C1.1.2\005Capiguardian-api-1.1.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-params\005C5.9.2\005Cjunit-jupiter-params-5.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-engine\005C5.9.2\005Cjunit-jupiter-engine-5.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cjunit\005Cplatform\005Cjunit-platform-engine\005C1.9.2\005Cjunit-platform-engine-1.9.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cmockito\005Cmockito-core\005C4.8.1\005Cmockito-core-4.8.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cnet\005Cbytebuddy\005Cbyte-buddy-agent\005C1.12.23\005Cbyte-buddy-agent-1.12.23.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cobjenesis\005Cobjenesis\005C3.2\005Cobjenesis-3.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cmockito\005Cmockito-junit-jupiter\005C4.8.1\005Cmockito-junit-jupiter-4.8.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cskyscreamer\005Cjsonassert\005C1.5.1\005Cjsonassert-1.5.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cvaadin\005Cexternal\005Cgoogle\005Candroid-json\005C0.0.20131108.vaadin1\005Candroid-json-0.0.20131108.vaadin1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-core\005C6.0.6\005Cspring-core-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-jcl\005C6.0.6\005Cspring-jcl-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-test\005C6.0.6\005Cspring-test-6.0.6.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cxmlunit\005Cxmlunit-core\005C2.9.1\005Cxmlunit-core-2.9.1.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringdoc\005Cspringdoc-openapi-starter-webmvc-ui\005C2.0.0\005Cspringdoc-openapi-starter-webmvc-ui-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringdoc\005Cspringdoc-openapi-starter-webmvc-api\005C2.0.0\005Cspringdoc-openapi-starter-webmvc-api-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringdoc\005Cspringdoc-openapi-starter-common\005C2.0.0\005Cspringdoc-openapi-starter-common-2.0.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cswagger\005Ccore\005Cv3\005Cswagger-core-jakarta\005C2.2.7\005Cswagger-core-jakarta-2.2.7.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Ccommons\005Ccommons-lang3\005C3.12.0\005Ccommons-lang3-3.12.0.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cswagger\005Ccore\005Cv3\005Cswagger-annotations-jakarta\005C2.2.7\005Cswagger-annotations-jakarta-2.2.7.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cswagger\005Ccore\005Cv3\005Cswagger-models-jakarta\005C2.2.7\005Cswagger-models-jakarta-2.2.7.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdataformat\005Cjackson-dataformat-yaml\005C2.14.2\005Cjackson-dataformat-yaml-2.14.2.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cwebjars\005Cswagger-ui\005C4.15.5\005Cswagger-ui-4.15.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cwebjars\005Cwebjars-locator-core\005C0.52\005Cwebjars-locator-core-0.52.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cio\005Cgithub\005Cclassgraph\005Cclassgraph\005C4.8.149\005Cclassgraph-4.8.149.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-validation\005C3.0.4\005Cspring-boot-starter-validation-3.0.4.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Capache\005Ctomcat\005Cembed\005Ctomcat-embed-el\005C10.1.5\005Ctomcat-embed-el-10.1.5.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Corg\005Chibernate\005Cvalidator\005Chibernate-validator\005C8.0.0.Final\005Chibernate-validator-8.0.0.Final.jar;C:\005CUsers\005CJUSTO\005C.m2\005Crepository\005Cjakarta\005Cvalidation\005Cjakarta.validation-api\005C3.0.2\005Cjakarta.validation-api-3.0.2.jar;
+
+
+# Created at 2023-03-09T16:41:29.686
+Unexpected IOException: I,1,sun.cpu.endian,little
+
+
+# Created at 2023-03-09T16:41:29.687
+Unexpected IOException: I,1,user.home,C:\005CUsers\005CJUSTO
+
+
+# Created at 2023-03-09T16:41:29.687
+Unexpected IOException: I,1,user.language,es
+
+
+# Created at 2023-03-09T16:41:29.688
+Unexpected IOException: I,1,java.specification.vendor,Oracle Corporation
+
+
+# Created at 2023-03-09T16:41:29.688
+Unexpected IOException: I,1,java.version.date,2023-01-17
+
+
+# Created at 2023-03-09T16:41:29.689
+Unexpected IOException: I,1,java.home,C:\005CProgram Files\005CAmazon Corretto\005Cjdk17.0.6_10
+
+
+# Created at 2023-03-09T16:41:29.689
+Unexpected IOException: I,1,file.separator,\005C
+
+
+# Created at 2023-03-09T16:41:29.689
+Unexpected IOException: I,1,style.color,always
+
+
+# Created at 2023-03-09T16:41:29.690
+Unexpected IOException: I,1,basedir,D:\005Cworkspace\005CtiendaMoneda
+
+
+# Created at 2023-03-09T16:41:29.690
+Unexpected IOException: I,1,java.vm.compressedOopsMode,Zero based
+
+
+# Created at 2023-03-09T16:41:29.691
+Unexpected IOException: I,1,line.separator,\000D\000A
+
+
+# Created at 2023-03-09T16:41:29.691
+Unexpected IOException: I,1,java.vm.specification.vendor,Oracle Corporation
+
+
+# Created at 2023-03-09T16:41:29.692
+Unexpected IOException: I,1,java.specification.name,Java Platform API Specification
+
+
+# Created at 2023-03-09T16:41:29.692
+Unexpected IOException: I,1,surefire.real.class.path,C:\005CUsers\005CJUSTO\005CAppData\005CLocal\005CTemp\005Csurefire12162613741108329195\005Csurefirebooter7688577740403013579.jar
+
+
+# Created at 2023-03-09T16:41:29.693
+Unexpected IOException: I,1,user.script,
+
+
+# Created at 2023-03-09T16:41:29.693
+Unexpected IOException: I,1,sun.management.compiler,HotSpot 64-Bit Tiered Compilers
+
+
+# Created at 2023-03-09T16:41:29.694
+Unexpected IOException: I,1,java.runtime.version,17.0.6+10-LTS
+
+
+# Created at 2023-03-09T16:41:29.694
+Unexpected IOException: I,1,user.name,JUSTO
+
+
+# Created at 2023-03-09T16:41:29.695
+Unexpected IOException: I,1,path.separator,;
+
+
+# Created at 2023-03-09T16:41:29.695
+Unexpected IOException: I,1,os.version,10.0
+
+
+# Created at 2023-03-09T16:41:29.696
+Unexpected IOException: I,1,java.runtime.name,OpenJDK Runtime Environment
+
+
+# Created at 2023-03-09T16:41:29.696
+Unexpected IOException: I,1,file.encoding,Cp1252
+
+
+# Created at 2023-03-09T16:41:29.697
+Unexpected IOException: I,1,java.vm.name,OpenJDK 64-Bit Server VM
+
+
+# Created at 2023-03-09T16:41:29.697
+Unexpected IOException: I,1,java.vendor.version,Corretto-17.0.6.10.1
+
+
+# Created at 2023-03-09T16:41:29.697
+Unexpected IOException: I,1,localRepository,C:\005CUsers\005CJUSTO\005C.m2\005Crepository
+
+
+# Created at 2023-03-09T16:41:29.698
+Unexpected IOException: I,1,java.vendor.url.bug,https://github.com/corretto/corretto-17/issues/
+
+
+# Created at 2023-03-09T16:41:29.698
+Unexpected IOException: I,1,java.io.tmpdir,C:\005CUsers\005CJUSTO\005CAppData\005CLocal\005CTemp\005C
+
+
+# Created at 2023-03-09T16:41:29.698
+Unexpected IOException: I,1,java.version,17.0.6
+
+
+# Created at 2023-03-09T16:41:29.699
+Unexpected IOException: I,1,user.dir,D:\005Cworkspace\005CtiendaMoneda
+
+
+# Created at 2023-03-09T16:41:29.699
+Unexpected IOException: I,1,os.arch,amd64
+
+
+# Created at 2023-03-09T16:41:29.699
+Unexpected IOException: I,1,java.vm.specification.name,Java Virtual Machine Specification
+
+
+# Created at 2023-03-09T16:41:29.700
+Unexpected IOException: I,1,sun.os.patch.level,
+
+
+# Created at 2023-03-09T16:41:29.700
+Unexpected IOException: I,1,native.encoding,Cp1252
+
+
+# Created at 2023-03-09T16:41:29.701
+Unexpected IOException: I,1,java.library.path,C:\005CProgram Files\005CAmazon Corretto\005Cjdk17.0.6_10\005Cbin;C:\005CWINDOWS\005CSun\005CJava\005Cbin;C:\005CWINDOWS\005Csystem32;C:\005CWINDOWS;C:/Users/JUSTO/Documents/sts-4.8.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932/jre/bin/server;C:/Users/JUSTO/Documents/sts-4.8.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932/jre/bin;C:\005CProgram Files\005CAmazon Corretto\005Cjdk17.0.6_10\005Cbin;C:\005CProgram Files\005CMicrosoft\005Cjdk-11.0.12.7-hotspot\005Cbin;C:\005Cxampp\005Cphp;C:\005CPython310\005C;C:\005CProgram Files\005CAdoptOpenJDK\005Cjdk-11.0.8.10-hotspot\005Cbin;C:\005CWINDOWS\005Csystem32;C:\005CWINDOWS;C:\005CWINDOWS\005CSystem32\005CWbem;C:\005CWINDOWS\005CSystem32\005CWindowsPowerShell\005Cv1.0\005C;C:\005CWINDOWS\005CSystem32\005COpenSSH\005C;C:\005CProgram Files\005CGit\005Ccmd;C:\005CProgram Files\005CMicrosoft SQL Server\005C130\005CTools\005CBinn\005C;C:\005CProgram Files\005CMicrosoft SQL Server\005CClient SDK\005CODBC\005C170\005CTools\005CBinn\005C;C:\005CProgram Files\005Cnodejs\005C;C:\005CProgramData\005Cchocolatey\005Cbin;C:\005CProgram Files\005Cdotnet\005C;C:\005CProgram Files\005CMicrosoft SQL Server\005C150\005CTools\005CBinn\005C;C:\005CProgram Files\005CMySQL\005CMySQL Shell 8.0\005Cbin\005C;C:\005CUsers\005CJUSTO\005CAppData\005CLocal\005CMicrosoft\005CWindowsApps;C:\005CUsers\005CJUSTO\005CAppData\005CLocal\005CGitHubDesktop\005Cbin;C:\005CUsers\005CJUSTO\005CAppData\005CRoaming\005Cnpm;C:\005CUsers\005CJUSTO\005C.dotnet\005Ctools;C:\005CUsers\005CJUSTO\005CAppData\005CLocal\005CPrograms\005CMicrosoft VS Code\005Cbin;C:\005Cxampp\005Cphp;;C:\005CUsers\005CJUSTO\005CDocuments\005Csts-4.8.0.RELEASE;;.
+
+
+# Created at 2023-03-09T16:41:29.701
+Unexpected IOException: I,1,java.vm.info,mixed mode\002C sharing
+
+
+# Created at 2023-03-09T16:41:29.702
+Unexpected IOException: I,1,java.vendor,Amazon.com Inc.
+
+
+# Created at 2023-03-09T16:41:29.702
+Unexpected IOException: I,1,java.vm.version,17.0.6+10-LTS
+
+
+# Created at 2023-03-09T16:41:29.703
+Unexpected IOException: I,1,sun.io.unicode.encoding,UnicodeLittle
+
+
+# Created at 2023-03-09T16:41:29.703
+Unexpected IOException: I,1,java.class.version,61.0
+
+
